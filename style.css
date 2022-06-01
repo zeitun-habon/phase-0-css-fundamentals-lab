@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+  justify-content: center;
+}
+#featured-property{
+  text-align: center;
+  justify-content: center;
+}
+
+a{
+  padding: 10px 10px;
+}
+
+p{
+  width: 800px;
+  text-align: center;
+  justify-content: center;
+}
