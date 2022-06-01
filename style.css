@@ -7,17 +7,35 @@ header{
   text-align: center;
   justify-content: center;
 }
-#featured-property{
-  text-align: center;
-  justify-content: center;
+img{
+  padding-left: 250px;
 }
 
 a{
   padding: 10px 10px;
 }
-
-p{
+ #featured-property p {
+  padding-left: 300px;
   width: 800px;
   text-align: center;
   justify-content: center;
+}
+figcaption{
+  font-size: small;
+  padding-left: 300px;
+}
+#details{
+  text-align: center;
+  width: fit-content;
+  background-color: red;
+  
+}
+
+#details div{
+  font-size: xx-small;
+  text-align: center;
+  justify-content: center;
+  float: left;
+  padding:20px;
+  padding-left: 200px;
 }
